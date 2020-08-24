@@ -1,4 +1,4 @@
-SDD Visualisation Task by Hayden Pidgeon
+SDD Visualisation Task by Hayden
 Left mouse: Create/Select Button/Move Vertex (HOLD)
 Right mouse: Delete Vertex
 NOTE: To name a vertex use the keyboard, to delete a key use the backspace button. 
